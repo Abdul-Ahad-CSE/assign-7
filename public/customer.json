@@ -1,0 +1,110 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still encounter an error on submission.",
+    "name": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/15/2024"
+  },
+  {
+    "id": "#1002",
+    "title": "Billing Inquiry - Incorrect Charge",
+    "description": "Customer was charged $49.99 instead of the expected $9.99 for the monthly subscription. Requesting an immediate refund and correction.",
+    "name": "Sarah Chen",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "1/15/2024"
+  },
+  {
+    "id": "#1003",
+    "title": "Feature Request - Dark Mode Option",
+    "description": "Requesting a 'Dark Mode' setting for the application interface to reduce eye strain, especially during evening use.",
+    "name": "Michael Johnson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/16/2024"
+  },
+  {
+    "id": "#1004",
+    "title": "API Downtime - Critical Service Interruption",
+    "description": "The main data-feed API has been down for 2 hours. Multiple dependent services are failing. This is an urgent production issue.",
+    "name": "Acme Corp",
+    "priority": "CRITICAL PRIORITY",
+    "status": "Open",
+    "createdAt": "1/16/2024"
+  },
+  {
+    "id": "#1005",
+    "title": "Website Bug - Broken Checkout Process",
+    "description": "Users are stuck on the shipping address page; the 'Continue' button does not respond after entering details.",
+    "name": "Emily Davis",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/17/2024"
+  },
+  {
+    "id": "#1006",
+    "title": "Missing Order Confirmation Email",
+    "description": "Order #4567 placed 3 hours ago, but the name has not received a confirmation email in their inbox or spam folder.",
+    "name": "David son",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Resolved",
+    "createdAt": "1/17/2024"
+  },
+  {
+    "id": "#1007",
+    "title": "Performance Issue - Slow Dashboard Load",
+    "description": "The main user dashboard takes over 30 seconds to load, especially when accessing historical data filters.",
+    "name": "Jessica Brown",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/18/2024"
+  },
+  {
+    "id": "#1008",
+    "title": "Account Termination Request",
+    "description": "Customer wishes to permanently delete their account and all associated data, citing privacy concerns.",
+    "name": "Tom Green",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Pending",
+    "createdAt": "1/18/2024"
+  },
+  {
+    "id": "#1009",
+    "title": "Mobile App Crash on Startup (iOS)",
+    "description": "The application crashes immediately upon opening on all iOS devices running iOS 17.2.",
+    "name": "Sophia Lee",
+    "priority": "CRITICAL PRIORITY",
+    "status": "Open",
+    "createdAt": "1/19/2024"
+  },
+  {
+    "id": "#1010",
+    "title": "Documentation Clarification",
+    "description": "The 'Getting Started' guide has an outdated code snippet for the JavaScript SDK initialization.",
+    "name": "Ryan Adams",
+    "priority": "LOW PRIORITY",
+    "status": "Closed",
+    "createdAt": "1/19/2024"
+  },
+  {
+    "id": "#1011",
+    "title": "Data Loss Report - Settings Not Saving",
+    "description": "Custom user settings (preferences, layout) are not persisting between login sessions.",
+    "name": "Chris Walker",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/20/2024"
+  },
+  {
+    "id": "#1012",
+    "title": "Request for Upgrade Quotation",
+    "description": "Existing user wants a price quote and feature comparison for upgrading from the 'Basic' plan to the 'Pro' plan.",
+    "name": "Olivia Martinez",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/20/2024"
+  }
+]
